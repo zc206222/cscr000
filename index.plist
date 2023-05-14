@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://github.com/zc206222/cscr00/blob/main/123.ipa</string>
+					<string>https://github.com/zc206222/cscr000/blob/main/123.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -58,7 +58,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://github.com/zc206222/cscr00/blob/main/123.ipa</string>
+					<string>https://github.com/zc206222/cscr000/blob/main/123.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
