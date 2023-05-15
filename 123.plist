@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-				       <string>http://zc206222.github.io/cscr000/123.ipa</string> 
+				       <string>https://zc206222.github.io/cscr000/123.ipa</string> 
 					
 				</dict>
 				<dict>
